@@ -1,2 +1,2 @@
 gensim==3.4.0
-tensorflow==1.8.0
+tensorflow==1.15.0
